@@ -1,0 +1,15 @@
+{
+  "type":"set",
+  "key":"valera",
+  "value":{
+    "name":"valera",
+    "car":{
+      "model":"Volvo",
+      "year":"2000"
+    },
+    "rocket":{
+      "name":"Falcon 9",
+      "launches":"111"
+    }
+  }
+}
