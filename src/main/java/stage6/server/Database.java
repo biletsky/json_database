@@ -97,7 +97,6 @@ public class Database {
         } finally {
             readLock.unlock();
         }
-
     }
 
     public void delete(JsonElement key) {
